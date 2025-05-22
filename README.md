@@ -1,9 +1,11 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 
 # AIM:
+
 To dram UML diagram for hospital management system was drawn
 
 # SRS (Procedure):
+
 ```
 1.DOCTOR
 2.PATIENT
@@ -14,6 +16,7 @@ To dram UML diagram for hospital management system was drawn
 ```
 
 # DIAGRAMS:
+
 # USECASE DIAGRAM
 ![UseCaseDiagram](https://github.com/user-attachments/assets/2fa38b9a-b751-4f95-acb5-1569adde371c)
 
@@ -34,4 +37,5 @@ To dram UML diagram for hospital management system was drawn
 ![CommunicationDiagram](https://github.com/user-attachments/assets/f59e1de1-7852-4504-b428-b33ecba0a3ee)
 
 # RESULT:
+
 Thus UML diagram for hospital management system was drawn
